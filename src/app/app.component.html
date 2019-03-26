@@ -8,13 +8,98 @@
       </ion-header>
       <ion-content>
         <ion-list>
-          <ion-menu-toggle auto-hide="false" *ngFor="let p of appPages">
-            <ion-item [routerDirection]="'root'" [routerLink]="[p.url]">
-              <ion-icon slot="start" [name]="p.icon"></ion-icon>
-              <ion-label>
-                {{p.title}}
-              </ion-label>
+          <ion-menu-toggle auto-hide="false">
+
+              <ion-item>
+              <button ion-button (click)='instructions()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                Instructions
+              </button>
+              </ion-item>
+
+            
+            <ion-item>
+              <button ion-button (click)='consciousness()'  style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                Consciousness
+              </button>
             </ion-item>
+              
+
+            <ion-item>
+              <button ion-button (click)='darkentity()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                Type of Dark Entity
+              </button>
+            </ion-item>
+
+            <ion-item>
+              <button ion-button (click)='biblical()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Biblical Dark Entity
+              </button>
+            </ion-item>
+
+            <ion-item>
+              <button ion-button (click)='underlying()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Underlying Causes
+              </button>
+            </ion-item>
+              
+            <ion-item>
+              <button ion-button (click)='when()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  When
+              </button>
+            </ion-item>
+
+            <ion-item>
+              <button ion-button (click)='bodypart()' style="border-radius: 10px;white-space: normal;width: 100%;font-size: 25px; background-color: #8000ff; color: white;">
+                  Body Part or 
+                  <br />
+                  System Affected
+              </button>
+            </ion-item>
+
+            <ion-item>
+              <button ion-button (click)='chakras()' style="border-radius: 10px;white-space: normal;width: 100%;font-size: 25px; background-color: #8000ff; color: white;">
+                  Chakras Subtle 
+                  <br />
+                  Bodies Affected
+              </button>
+            </ion-item>
+
+          <ion-item>
+              <button ion-button (click)='meridians()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Meridians Affected
+              </button>
+          </ion-item>
+
+          <ion-item> 
+              <button ion-button (click)='why()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Why
+              </button>
+          </ion-item>
+
+          <ion-item>
+              <button ion-button (click)='reason()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Reason
+              </button>
+          </ion-item>
+
+          <ion-item>
+              <button ion-button (click)='symptoms()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Symptoms
+              </button>
+          </ion-item>
+
+        <ion-item>
+              <button ion-button (click)='failsafes()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Fail-Safes
+              </button>
+        </ion-item>
+
+         <ion-item>
+              <button ion-button (click)='results()' style="border-radius: 10px;white-space: normal;width: 100%;height: 30px;font-size: 25px; background-color: #8000ff; color: white;">
+                  Results
+              </button>
+         </ion-item>
+
           </ion-menu-toggle>
         </ion-list>
       </ion-content>

@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+   // font-family: 'railway', sans-serif;
+}
+.circle{
+    border-radius: 10px;
+    width: 33%;
+    height: 30px;
+    font-size: 200%;
+    background-color: #8000ff;
+    color: white;
+   // font-family: 'railway', sans-serif;
+    
+}
+.background{
+    --background: url(../../../assets/color.png) !important;
+   // font-family: 'railway', sans-serif;
+      
+}
+.hydrated{
+  //  font-family: 'railway', sans-serif !important;
+    white-space: normal !important;
+}
+.bullet {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    position: left;
+    background-color: black;
+    border-radius: 50%;
+}

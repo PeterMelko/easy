@@ -1,0 +1,32 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title center>Easy Entity Release</ion-title>
+  </ion-toolbar>
+</ion-header>
+ 
+<ion-content padding class="background">
+  
+    <form class="form" [formGroup]="loginForm" (click)='login(loginForm.value)'>
+        <ion-item><h1>Login</h1></ion-item>
+      <ion-item>
+        <ion-label floating>Email</ion-label>
+        <ion-input type="text" formControlName="email"></ion-input>
+      </ion-item>
+  
+      <ion-item>
+        <ion-label floating>Password</ion-label>
+        <ion-input type="password" formControlName="password" class="form-control"></ion-input>
+      </ion-item>
+      <br />
+      
+      <button ion-button href="/members" routerDirection="root"  type="submit" class="circle" float-right >
+        Login
+      </button>
+      <label class="error-message">{{errorMessage}}</label>
+      <br />
+      <ion-card>
+            <img src="../../../assets/login.png" />
+      </ion-card>
+      <button ion-button class="signup" >Become Member</button>
+      </form>
+</ion-content>

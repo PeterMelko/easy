@@ -2,8 +2,62 @@
 // http://ionicframework.com/docs/theming/
 
 /** Ionic CSS Variables **/
+:root,
+:root[mode=ios],
+:root[mode=md] {
+  --ion-font-family: "Dosis" !important;
+
+  font-family: "Dosis" !important;
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  src: url('../assets/fonts/Crimson_Text/CrimsonText-Bold.ttf');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  src: url('../assets/fonts/Dosis/Dosis-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  src: url('../assets/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  src: url('../assets/fonts/Lora/Lora-Bold.ttf');
+}
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  src: url('../assets/fonts/Oxygen/Oxygen-Bold.ttf');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  src: url('../assets/fonts/PT_Serif/PT_Serif-Web-Bold.ttf');
+}
+@font-face {
+  font-family: 'PlayFair Display';
+  font-style: normal;
+  src: url('../assets/fonts/Playfair_Display/PlayfairDisplay-Bold.ttf');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  src: url('../assets/fonts/Raleway/Raleway-SemiBold.ttf');
+}
 :root {
+
+ 
   /** primary **/
+  //--ion-font-family-primary: 'raleway, sans-serif';
+  //--ion-font-family-secondary: 'arimo, sans-serif';
+  //--ion-font-family-tertiary: 'playfair display, serif';
+  //--ion-font-family-success: 'roboto slab, serif';
   --ion-color-primary: #3880ff;
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;

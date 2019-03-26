@@ -1,5 +1,7 @@
 {
   "name": "EasyEntityRelease",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

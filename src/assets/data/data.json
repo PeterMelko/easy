@@ -1,0 +1,1005 @@
+
+{
+"consciousness": [
+{
+     "id" : "1",
+     "name": "General",
+     "desc": ""
+ }, {
+    "id" : "2",
+    "name": "Higher Self",
+    "desc": ""
+ }, {
+    "id" : "3",
+    "name": "Soul",
+    "desc": ""
+ }, {
+    "id" : "4",
+    "name": "Lower Self",
+    "desc": ""
+ }, {
+    "id" : "5",
+    "name": "Ego/Personality",
+    "desc": ""
+ }, {
+    "id" : "6",
+    "name": "Inner Child",
+    "desc": ""
+}, {
+   "id" : "7",
+   "name": "Guide",
+   "desc": ""
+}, {
+   "id" : "8",
+   "name": "Source/ God",
+   "desc": ""
+}, {
+   "id" : "9",
+   "name": "Angel",
+   "desc": ""
+}, {
+   "id" : "10",
+   "name": "Parallel",
+   "desc": ""
+}, {
+    "id" : "11",
+    "name": "Specific Body Part",
+    "desc": ""
+}, {
+   "id" : "12",
+   "name": "Self to Situation",
+   "desc": ""
+}, {
+   "id" : "13",
+   "name": "Monad",
+   "desc": ""
+}, {
+   "id" : "14",
+   "name": "Oversoul",
+   "desc": ""
+}, {
+   "id" : "15",
+   "name": "Other",
+   "desc": ""
+}], 
+"darkEntity": [
+    {
+        "id" : "1",
+        "name": "Jinn Spirit",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Lesser Demon",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Shape Shifting Demon",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Giant Demon",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Thought Form Entity",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Spirit Entity(Disembodied Spirit)",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Spirit Entity Imprint",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "In Limbo or Stuck Spirit",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Reptilian",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Reptilian Imprints",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "Implant From a Dark E.T",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "Biblical Dark Entity Consciousness",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Dark Energy Entity Consciousness",
+      "desc": ""
+   }, {
+      "id" : "14",
+      "name": "Fallen Angel",
+      "desc": ""
+   }, {
+      "id" : "15",
+      "name": "Dark Energy Consciousness as Intuitive Interference",
+      "desc": ""
+   },{
+    "id" : "16",
+    "name": "A Curse from Dark Entity Consciousness",
+    "desc": ""
+   }, {
+    "id" : "17",
+    "name": "Entity Possesion",
+    "desc": ""
+   }, {
+    "id" : "18",
+    "name": "Other",
+    "desc": ""
+   }],
+   "biblicalEntity": [
+    {
+        "id" : "1",
+        "name": "Abaddon",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Accuser",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Adversary",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Angel of Light",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Angel of Bottomless Pit",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Antichrist",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Apollyon",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Beast",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Beelzebub",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Deceiver",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "Devil",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "Destroyer",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Dragon",
+      "desc": ""
+   }, {
+      "id" : "14",
+      "name": "Great Dragon",
+      "desc": ""
+   }, {
+      "id" : "15",
+      "name": "Enemy",
+      "desc": ""
+   },{
+    "id" : "16",
+    "name": "Evil One",
+    "desc": ""
+   }, {
+    "id" : "17",
+    "name": "Evil Spirit",
+    "desc": ""
+   }, {
+    "id" : "18",
+    "name": "Father of Lies",
+    "desc": ""
+   }, {
+    "id" : "19",
+    "name": "King of the Bottomless Pit",
+    "desc": "" 
+   }, {
+    "id" : "20",
+    "name": "Leviathan",
+    "desc": ""
+   }, {
+    "id" : "21",
+    "name": "Liar",
+    "desc": ""
+   }, {
+    "id" : "22",
+    "name": "Lucifer",
+    "desc": ""
+   }, {
+    "id" : "23",
+    "name": "Man of Sin",
+    "desc": ""
+   }, {
+    "id" : "24",
+    "name": "Power of Darkness",
+    "desc": ""
+   }, {
+    "id" : "25",
+    "name": "Rulers of the Darkness",
+    "desc": ""
+   }, {
+    "id" : "26",
+    "name": "Ruler of Demons",
+    "desc": ""
+   }, {
+    "id" : "27",
+    "name": "Ruler of this World",
+    "desc": ""
+   }, {
+    "id" : "28",
+    "name": "Satan",
+    "desc": ""
+   }, {
+    "id" : "29",
+    "name": "Son of Perdition",
+    "desc": ""
+   }, {
+    "id" : "30",
+    "name": "Son of the Morning",
+    "desc": ""
+   }, {
+    "id" : "31",
+    "name": "Son of Wickedness",
+    "desc": ""
+   }, {
+    "id" : "32",
+    "name": "Spoiler",
+    "desc": ""
+   }, {
+    "id" : "33",
+    "name": "Tempter",
+    "desc": ""
+   }, {
+    "id" : "34",
+    "name": "Thief",
+    "desc": ""
+   }, {
+    "id" : "35",
+    "name": "Wicked One",
+    "desc": ""
+   }, {
+    "id" : "36",
+    "name": "Other",
+    "desc": ""
+   }],
+   "underlyingCauses":[
+    {
+        "id" : "1",
+        "name": "A Trapped Emotion",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Excess Stress",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Unhealthy Cords with Others",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Negative Belief Patterns",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Different Dark Entity Consciousness",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Psychic attack from another human being",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Other",
+      "desc": ""
+   }],
+   "when": [
+    {
+        "id" : "1",
+        "name": "Womb",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Birth",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "0-10",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "11-20",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "21-30",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "31-40",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "41-50",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "51-60",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "61-70",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "71-80",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "81-90",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "91-100",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Bardo",
+      "desc": ""
+   }, {
+      "id" : "14",
+      "name": "Past Life",
+      "desc": ""
+   }, {
+      "id" : "15",
+      "name": "Present Life",
+      "desc": ""
+   },{
+    "id" : "16",
+    "name": "Present future",
+    "desc": ""
+   }, {
+    "id" : "17",
+    "name": "Future Life",
+    "desc": ""
+   }, {
+    "id" : "18",
+    "name": "Dimension",
+    "desc": ""
+   }, {
+    "id" : "19",
+    "name": "Parallel",
+    "desc": "" 
+   }, {
+    "id" : "20",
+    "name": "Parallel Universe",
+    "desc": ""
+   }, {
+    "id" : "21",
+    "name": "Astral Plane",
+    "desc": ""
+   }, {
+    "id" : "22",
+    "name": "Lower World",
+    "desc": ""
+   }, {
+    "id" : "23",
+    "name": "Upper World",
+    "desc": ""
+   }, {
+    "id" : "24",
+    "name": "In Between Lives",
+    "desc": ""
+   }, {
+    "id" : "25",
+    "name": "Other",
+    "desc": ""
+   }],
+   "body" : [
+    {
+        "id" : "1",
+        "name": "Physical Body",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Mental Body",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Emotional Body",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Spiritual Body",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Brain",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Pineal Gland",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Thyroid Gland",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Heart",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Lungs",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Stomach",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "Solar Plexus",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "Liver",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Kidneys",
+      "desc": ""
+   }, {
+      "id" : "14",
+      "name": "Adrenal Glands",
+      "desc": ""
+   }, {
+      "id" : "15",
+      "name": "Colon",
+      "desc": ""
+   },{
+    "id" : "16",
+    "name": "Bladder",
+    "desc": ""
+   }, {
+    "id" : "17",
+    "name": "Breasts",
+    "desc": ""
+   }, {
+    "id" : "18",
+    "name": "Mammary Glands",
+    "desc": ""
+   }, {
+    "id" : "19",
+    "name": "Cells",
+    "desc": "" 
+   }, {
+    "id" : "20",
+    "name": "Ovaries",
+    "desc": ""
+   }, {
+    "id" : "21",
+    "name": "Uterus",
+    "desc": ""
+   }, {
+    "id" : "22",
+    "name": "Vagina",
+    "desc": ""
+   }, {
+    "id" : "23",
+    "name": "Prostate",
+    "desc": ""
+   }, {
+    "id" : "24",
+    "name": "Penis",
+    "desc": ""
+   }, {
+    "id" : "25",
+    "name": "DNA",
+    "desc": ""
+   }, {
+    "id" : "26",
+    "name": "Blood",
+    "desc": ""
+   }, {
+    "id" : "27",
+    "name": "Under Feet",
+    "desc": ""
+   }, {
+    "id" : "28",
+    "name": "Top of Head",
+    "desc": ""
+   }, {
+    "id" : "29",
+    "name": "Nervous System",
+    "desc": ""
+   }, {
+    "id" : "30",
+    "name": "Endocrine System",
+    "desc": ""
+   }, {
+    "id" : "31",
+    "name": "Digestive System",
+    "desc": ""
+   }, {
+    "id" : "32",
+    "name": "Reproductive System",
+    "desc": ""
+   }, {
+    "id" : "33",
+    "name": "Immune System",
+    "desc": ""
+   }, {
+    "id" : "34",
+    "name": "Circulatory System",
+    "desc": ""
+   }, {
+    "id" : "35",
+    "name": "Skeletal system",
+    "desc": ""
+   }, {
+    "id" : "36",
+    "name": "Muscular System",
+    "desc": ""
+   }, {
+    "id" : "37",
+    "name": "Respiratory System",
+    "desc": ""
+   }, {
+    "id" : "38",
+    "name": "Urinary System",
+    "desc": ""
+   }, {
+    "id" : "39",
+    "name": "Lymphatic System",
+    "desc": ""
+   }, {
+    "id" : "40",
+    "name": "Integumentary System",
+    "desc": ""
+   }, {
+    "id" : "41",
+    "name": "Other",
+    "desc": ""
+   }], 
+   "chakras" : [
+    {
+        "id" : "1",
+        "name": "Root",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Sacral",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Solar Plexus",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Heart",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Throat",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Third Eye",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Crown",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Etheric Body",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Astral Body",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Mental Body",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "Causal Body",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "Connection to Source",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Galactic Center",
+      "desc": ""
+   }],
+   "meridians" : [
+    {
+        "id" : "1",
+        "name": "Conception Vessel",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Governing Vessel",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Triple Warmer",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Pericardium",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Gall Bladder",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Liver",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Kidney",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Bladder",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Lung",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Large Intestine",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "Small Intestine",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "Heart",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Stomach",
+      "desc": ""
+   }, {
+    "id" : "14",
+    "name": "Spleen",
+    "desc": ""
+   }], 
+   "why": [
+    {
+        "id" : "1",
+        "name": "Carried Over from a Past Life",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Inherited",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Transferred During Sexual Intercourse",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Karmic",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Intended to do Harm",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Traumatic Expierence",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Soul Mission to Help Dark Entity Consciousness",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Agreement or Contract to help Dark Enitity Consciousness",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Body as an Accessway, Black Hole, Doorway, Portal, Vortex, or Window",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Body Part as an Accessway, Black Hole, Doorway, Portal, Vortex, or Window(Identify Body Part)",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "An Accessway, Black Hole, Doorway, Portal, Vortex, or window in a Home, Building or Surrounding Land",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "Dark Entity Consciousness in a Home, Building or Surrounding Land",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Entity Loops or Escape Holes",
+      "desc": ""
+   }, {
+      "id" : "14",
+      "name": "A cord with Dark Entity Consciousness",
+      "desc": ""
+   } , {
+      "id" : "15",
+      "name": "Psychic Attack",
+      "desc": ""
+   }, {
+      "id" : "16",
+      "name": "Other",
+      "desc": ""
+    }],
+   "reason": [
+    {
+        "id" : "1",
+        "name": "Mass Mind Consciousness Program",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Imprint",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Sabotage",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Punishment",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "False Belief",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Lesson",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Growth",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Identification",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Re-Programming",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Soul Contract",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "Other",
+       "desc": ""
+   }], 
+   "symptoms":[
+    {
+        "id" : "1",
+        "name": "Abuse",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Addictions",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Alcoholism",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Anger",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Anxiety",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Brain Damage",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Child Abuse",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Cravings/Compulsions",
+      "desc": ""
+   }, {
+      "id" : "9",
+      "name": "Depression",
+      "desc": ""
+   }, {
+      "id" : "10",
+      "name": "Disease/Illness",
+      "desc": ""
+   }, {
+       "id" : "11",
+       "name": "Doubt your own Sanity",
+       "desc": ""
+   }, {
+      "id" : "12",
+      "name": "Ego",
+      "desc": ""
+   }, {
+      "id" : "13",
+      "name": "Fear",
+      "desc": ""
+   }, {
+      "id" : "14",
+      "name": "Failure",
+      "desc": ""
+   }, {
+      "id" : "15",
+      "name": "Fatigue",
+      "desc": ""
+   },{
+    "id" : "16",
+    "name": "Guilt",
+    "desc": ""
+   }, {
+    "id" : "17",
+    "name": "Hate of Self",
+    "desc": ""
+   }, {
+    "id" : "18",
+    "name": "Hate of Women",
+    "desc": ""
+   }, {
+    "id" : "19",
+    "name": "Hate of Men",
+    "desc": "" 
+   }, {
+    "id" : "20",
+    "name": "Hate of God",
+    "desc": ""
+   }, {
+    "id" : "21",
+    "name": "Helplessness",
+    "desc": ""
+   }, {
+    "id" : "22",
+    "name": "Inflammation",
+    "desc": ""
+   }, {
+    "id" : "23",
+    "name": "Inverted",
+    "desc": ""
+   }, {
+    "id" : "24",
+    "name": "Low Self Esteem",
+    "desc": ""
+   }, {
+    "id" : "25",
+    "name": "Negative Thinking",
+    "desc": ""
+   }, {
+    "id" : "26",
+    "name": "Pain",
+    "desc": ""
+   }, {
+    "id" : "27",
+    "name": "Promiscuity",
+    "desc": ""
+   }, {
+    "id" : "28",
+    "name": "Self-Centered",
+    "desc": ""
+   }, {
+    "id" : "29",
+    "name": "Self-Destructing Behavior",
+    "desc": ""
+   }, {
+    "id" : "30",
+    "name": "Self-Sabotaging thought Patterns",
+    "desc": ""
+   }, {
+    "id" : "31",
+    "name": "Self Punishment",
+    "desc": ""
+   }, {
+    "id" : "32",
+    "name": "Schizophrenia",
+    "desc": ""
+   }, {
+    "id" : "33",
+    "name": "Suicidal Tendencies",
+    "desc": ""
+   }, {
+    "id" : "34",
+    "name": "Tumor/Lump/Nodule",
+    "desc": ""
+   }, {
+    "id" : "35",
+    "name": "Unhappiness",
+    "desc": ""
+   }, {
+    "id" : "36",
+    "name": "Violence",
+    "desc": ""
+   }, {
+    "id" : "37",
+    "name": "Weight Gain or Loss",
+    "desc": ""
+   }, {
+    "id" : "38",
+    "name": "Worthlessness",
+    "desc": ""
+   }, {
+    "id" : "39",
+    "name": "Your Thoughts are not your own",
+    "desc": ""
+   }, {
+    "id" : "40",
+    "name": "Other",
+    "desc": ""
+   }],
+   "failSafes": [
+    {
+        "id" : "1",
+        "name": "Hidden",
+        "desc": ""
+    }, {
+       "id" : "2",
+       "name": "Secret",
+       "desc": ""
+    }, {
+       "id" : "3",
+       "name": "Unexpected",
+       "desc": ""
+    }, {
+       "id" : "4",
+       "name": "Invisible",
+       "desc": ""
+    }, {
+       "id" : "5",
+       "name": "Buried",
+       "desc": ""
+    }, {
+       "id" : "6",
+       "name": "Cannot be released in any lifetime",
+       "desc": ""
+   }, {
+      "id" : "7",
+      "name": "Will never be released",
+      "desc": ""
+   }, {
+      "id" : "8",
+      "name": "Intended to do Harm",
+      "desc": ""
+   }]
+
+}
+

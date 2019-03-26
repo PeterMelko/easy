@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+   // font-family: 'railway', sans-serif;
+}
+.circle{
+    border-radius: 10px;
+    width: 33%;
+    height: 30px;
+    font-size: 175%;
+    background-color: #8000ff;
+    color: white;
+   // font-family: 'railway', sans-serif;
+    white-space: normal !important;
+    font-weight: 900 !important;
+}
+.background{
+    --background: url(../../../assets/color.png) !important;
+    
+      
+}
+.hydrated{
+   // font-family: 'railway', sans-serif !important;
+    white-space: normal !important;
+}
+.signup{
+    border-radius: 10px;
+    width: 100%;
+    height: 30px;
+    font-size: 175%;
+    background-color: #60cc08;
+    color: white;
+    white-space: normal;
+    font-weight: 900 !important;
+   // font-family: 'railway', sans-serif !important;
+   // font-family: fantasy !important;
+}
